@@ -3,4 +3,4 @@ def add(a, b):
     return a + b
 
 if __name__ == "__main__":
-    print("Addition result: ", add(3, 4))
+    print("Addition result: ", add(7, 8))
