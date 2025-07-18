@@ -1,6 +1,6 @@
-def add(x, y):
-    """Add two numbers."""
-    return x + y
+# file: test_code.py
+def divide(a, b):
+    return a / b
 
 if __name__ == "__main__":
-    print("Addition result: ", add(7, 8))
+    print("Addition result: ", add(8, 2))
